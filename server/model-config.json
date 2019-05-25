@@ -49,5 +49,13 @@
   },
   "Email": {
     "dataSource": "myEmailDataSource"
+  },
+  "attachment": {
+    "dataSource": "storage",
+    "public": true
+  },
+  "Upload": {
+    "dataSource": "MongoDB",
+    "public": true
   }
 }
