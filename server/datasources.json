@@ -19,15 +19,15 @@
     "transports": [
       {
         "type": "smtp",
-        "host": "smtp.tesseractdev.xyz",
+        "host": "email-smtp.us-east-1.amazonaws.com",
         "secure": false,
         "port": 587,
         "tls": {
           "rejectUnauthorized": false
         },
         "auth": {
-          "user": "info@tesseractdev.xyz",
-          "pass": "Bt92d0a5a"
+          "user": "AKIARY2NOAAQZHLM4WFN",
+          "pass": "BG1Tw/rsJXcZ9jmys82jPkt9Gj192n1qUy3VuuABfU/6"
         }
       }
     ]
